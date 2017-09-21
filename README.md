@@ -16,7 +16,8 @@ python seat_arranger.py [-o OUTPUT_FILE] input_file
 ```
 
 - input\_file
-    - It should be a text file with list of student names
+    - It should be a json file with list of student names
+    - e.g. `["stu1", "stu2"]`
 
 - OUTPUT\_FILE
     - Filename of output xlsx file
